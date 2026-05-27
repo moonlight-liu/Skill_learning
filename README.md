@@ -25,6 +25,14 @@
 npx skills add https://github.com/OhMyYuwan/TianGong-Skill --skill tiangong
 ```
 
+## 作业 Skill：投毒.skill
+
+```bash
+npx skills add https://github.com/OhMyYuwan/TianGong-Skill --skill toudu
+```
+
+`toudu` 是一个教学用 Skill 投毒安全实验室，用于识别、演示和修复 Agent Skill 中的投毒、提示注入、隐蔽指令、数据外传、持久化修改和能力退化风险。
+
 [![Star History Chart](https://api.star-history.com/svg?repos=OhMyYuwan/TianGong-Skill&type=Date)](https://star-history.com/#OhMyYuwan/TianGong-Skill&Date)
 
 # 🫶 致谢
